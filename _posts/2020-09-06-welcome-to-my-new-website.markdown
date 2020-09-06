@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my new website"
 date:   2020-09-06 21:20:00
-categories: Information News
+categories: Information
 ---
 
 Hello, and welcome to my new website.
