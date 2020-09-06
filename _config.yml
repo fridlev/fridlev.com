@@ -18,3 +18,4 @@ author: "Rasmus Fridlev"
 
 # Disqus config
 disqus-shortname: "fridlev"
+comments: true
