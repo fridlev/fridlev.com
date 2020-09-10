@@ -1,4 +1,4 @@
-name: fridlev.com
+name: rasmus.fridlev.com
 description: Welcome to my personal website. Read more
 meta_description: "My personal website hosted on GitHub"
 
@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: "https://rasmus.fridlev.com"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-129837768-2"
 plugins: [jekyll-paginate]
 future: true
 
