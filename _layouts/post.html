@@ -1,6 +1,5 @@
 ---
 layout: default
-disqus: true
 archive: false
 post_class: post-template
 ---
@@ -81,7 +80,7 @@ post_class: post-template
             {% include share.html %}
 
             <!-- Disqus comments -->
-            {% if page.disqus %}
+            {% if site.disqus.shortname %}
                 {% include disqus.html %}
             {% endif %}
 
