@@ -77,13 +77,9 @@ post_class: post-template
                 </section>
             {% endif %}
 
-            <!-- Share links section -->
             {% include share.html %}
 
-            <!-- Disqus comments -->
-            {% if site.disqus %}
-                {% include disqus.html %}
-            {% endif %}
+            {% include disqus.html %}
 
         </footer>
 
