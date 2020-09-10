@@ -14,4 +14,4 @@ I hope you will press the subscribe button and visit the page once in a while. I
 I'm working on a comment section in the bottom of the page so you can participate and correct me if I'm totally off track. (A contact page will be added soon).
 
 Thanks,
-Rasmus Jensen
+Rasmus Fridlev
